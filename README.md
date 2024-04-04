@@ -1,1 +1,2 @@
 # billing
+The Unit brings patients with cancer together with specialized nursing care. This allows nurses to care for patients with a newly diagnosed cancer, active cancer diagnosis, or patients with a history of cancer. oncology [billing audit](https://hurricanemd.com/impact-of-medical-billing-audits-on-your-practice/) deals with the various billing process for cancer treatment. Cancer treatment is usually extended periods of care with a combination of services and treatment
